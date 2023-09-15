@@ -12,9 +12,9 @@ redirect_from:
 
 I am a graduate of Covenant University, Nigeria
 
-As a material scientist, I have a strong background in mathematics and anylitical skills
+Coming from a backgrond in material science, I have a strong background in mathematics and anylitical skills
 
-my Research interest lies in Deep Learning and its multidicsciplinary applications.
+My Research interest lies in Deep Learning and its multidicsciplinary applications.
 
 I am passionate about making machine learning and its many benefits accessible to all.
 
@@ -23,6 +23,18 @@ Selected Experiences
 ======
 
 ## Deep Learning for Multiclass Traffic Sign Recognition using the German Traffic Sign
+
+- I have experience developing a deep learning model based on Convolutional Neural Networks (CNN) using TensorFlow for the classification of various traffic signs.
+
+- Utilized the German Traffic Sign Recognition Benchmark dataset, which consists of 43 classes of traffic signs.
+
+- Implemented the LeNet CNN architecture for image classification, including convolutional layers, pooling layers, and fully connected layers.
+
+- Trained the CNN model on the dataset using Amazon SageMaker, optimizing hyperparameters and achieving high accuracy.
+
+- Deployed the trained model for making real-time predictions.
+
+
 
 ## Retal Sales Prediction
 
