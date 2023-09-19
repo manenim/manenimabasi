@@ -56,4 +56,8 @@ Sceem-ai from concept to realization, enhancing user engagement and skill acquis
 - Distinguished among the top 15 globally in the Global Changemaker Program, outshining over 570 
 applicants from 87 countries.
 
+---
+
+Please feel frre to check out my [CV]() [Linkedin profile](https://www.linkedin.com/in/manenimabasi-udoh-42b480253/) to learn more.
+
 
