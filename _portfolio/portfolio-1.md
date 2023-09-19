@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning for Multiclass Traffic Sign Recognition using the German Traffic Sign Recognition Benchmark Dataset"
-excerpt: "In this Project, I embarked on a deep learning journey to tackle multiclass traffic sign recognition...<br/><img src='https://www.techopedia.com/wp-content/uploads/2023/02/dreamstime_m_95793105-1-1.jpeg'>"
+excerpt: "In this Project, I embarked on a deep learning journey to tackle multiclass traffic sign recognition...<br/><img src='https://www.techopedia.com/wp-content/uploads/2023/02/dreamstime_m_95793105-1-1.jpeg' width="200" height="150">"
 collection: portfolio
 ---
 
