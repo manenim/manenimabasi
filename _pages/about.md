@@ -46,7 +46,7 @@ I am passionate about making machine learning and its many benefits accessible t
 -	Achieved model precision with low Root Mean Squared Error (RMSE), Mean Squared Error (MSE), and Mean Absolute Error (MAE), highlighting the effectiveness of XGBoost in enhancing retail operations and decision-making.
 
 
-## Technical Team Lead
+### Technical Team Lead
 
 -	Founded and led Tektransform, an innovative organization, driving the creation of an edtech product, Sceem-ai – an AI-powered learning platform designed to teach digital skills adaptive content delivery and a personalized learning approach.
 
