@@ -20,6 +20,7 @@ My Research interest lies in Deep Learning and its multidicsciplinary applicatio
 
 I am passionate about making machine learning and its many benefits accessible to all.
 
+---
 
 # Selected Experiences
 
