@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-(https://manenim.github.io/manenimabasi/files/project2.pdf target = "_blank")
+[.](https://manenim.github.io/manenimabasi/files/project2.pdf target = "_blank")
