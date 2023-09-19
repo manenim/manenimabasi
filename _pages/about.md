@@ -58,6 +58,5 @@ applicants from 87 countries.
 
 ---
 
-Please feel frre to check out my [CV]() [Linkedin profile](https://www.linkedin.com/in/manenimabasi-udoh-42b480253/) to learn more.
-
+View My[Linkedin profile](https://www.linkedin.com/in/manenimabasi-udoh-42b480253/).
 
