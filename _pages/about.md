@@ -26,7 +26,7 @@ I am confident I will cotribute my interdisciplinary background and professional
 
 ### Deep Learning for Multiclass Traffic Sign Recognition using the German Traffic Sign
 
-[View Project](manenimabasi/files/project2.pdf)
+[View Project](files/project2.pdf)
 
 -	Implemented a multiclassifier model using deep learning techniques to classify diverse traffic signs.
 
@@ -38,7 +38,7 @@ I am confident I will cotribute my interdisciplinary background and professional
 
 
 ### Predicting Retail Store Sales with XGBoost
-[View Project](manenimabasi/files/project1.pdf)
+[View Project](files/project1.pdf)
 
 - As part of my study and passion for applying machine learning techniques to real-world scenarios, I undertook a  project focused on Predicting Retail Store Sales with XGBoost.
 
